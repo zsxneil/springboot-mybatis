@@ -9,6 +9,7 @@
         <module>springbootmybatis</module>
         <module>springbootmybatisannotation</module>
         <module>springbootmybatisredis</module>
+        <module>rediscache</module>
     </modules>
     <packaging>pom</packaging>
 
